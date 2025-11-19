@@ -10,20 +10,13 @@ Transformar Mondariz en un modelo europeo de regeneración rural, donde vivir co
 
 ---
 
-## 🎯 Misión
+## 📂 Documentación del Proyecto
 
-- Crear viviendas de coste controlado para jóvenes, familias y mayores.
-- Combatir la despoblación con innovación social y arquitectura sostenible.
-- Reforzar la identidad gallega y dinamizar la economía local.
-
----
-
-## 🧩 ¿Qué proponemos?
-
-- **Viviendas modulares T1 a T3**, con materiales locales y eficiencia energética.
-- **Espacios comunes**: huerto comunitario, coworking rural, centro cultural.
-- **Tecnología rural**: internet de alta velocidad, app comunitaria, energía solar.
-- **Cultura viva**: talleres de gallego, música tradicional, rutas históricas.
+- 📝 [Manifiesto del Proyecto](../manifiesto/manifiesto-vivir-mondariz.md)
+- 🏗️ [Propuesta Arquitectónica](arquitectura/propuesta-arquitectonica.md)
+- 🌿 [Estrategia de Sostenibilidad](sostenibilidad/estrategia-verde.md)
+- 💼 [Impacto en la Economía Local](economia-local/impacto-economico.md)
+- 📅 [Cronograma del Proyecto](cronograma.md)
 
 ---
 
