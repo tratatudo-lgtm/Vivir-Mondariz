@@ -23,7 +23,7 @@ Un proyecto de vivienda accesible, sostenible y comunitaria para revitalizar Mon
 
 - 🏠 [Casa Tipo T1 – 45 m²](arquitectura/t1.md)
 - 🏠 [Casa Tipo T2 – 65 m²](arquitectura/t2.md)
-- 🏠 [Casa Tipo T3 – 90 m²](arquitectura/t3.md) *(pendiente)*
+- 🏠 [Casa Tipo T3 – 90 m²](arquitectura/t3.md) 
 
 ---
 
