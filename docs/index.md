@@ -13,6 +13,7 @@ Un proyecto de vivienda accesible, sostenible y comunitaria para revitalizar Mon
 - 📅 [Cronograma del Proyecto](cronograma.md)
 - 🗣️ [Plan de Participación Ciudadana](participacion-ciudadana.md)
 - 📊 [Estudio de Viabilidad Técnica y Financiera](viabilidad.md)
+- 🌱 [Expansión Estratégica del Proyecto](expansion-estrategica.md)
 - 🎨 [Plan de Comunicación Visual](comunicacion-visual.md)
 - 🪧 [Cartel de Presentación](cartel-presentacion.md)
 
