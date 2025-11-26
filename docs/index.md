@@ -23,8 +23,8 @@
 
 ## 🏘️ Tipologías de Vivienda
 
-- 🏠 [Casa Tipo T1 – 45 m²](arquitectura/t1.md)
-- 🏠 [Casa Tipo T2 – 65 m²](arquitectura/t2.md)
+- 🏠 [Casa Tipo T1 – 55 m²](arquitectura/t1.md)
+- 🏠 [Casa Tipo T2 – 80 m²](arquitectura/t2.md)
 - 🏠 [Casa Tipo T3 – 120 m²](arquitectura/t3.md)
 
 ---
