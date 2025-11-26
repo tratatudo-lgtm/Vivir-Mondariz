@@ -1,6 +1,6 @@
 # 🏡 VIVIR MONDARIZ – Documentación Técnica
 
-Bienvenido al repositorio técnico del proyecto VIVIR MONDARIZ. Aquí encontrarás toda la información organizada por áreas clave: arquitectura, accesibilidad, estabilidad, sostenibilidad, gestión y participación.
+Bienvenido al repositorio técnico del proyecto **VIVIR MONDARIZ**. Aquí encontrarás toda la información organizada por áreas clave: arquitectura, accesibilidad, estabilidad, sostenibilidad, gestión y participación.
 
 ---
 
@@ -47,8 +47,13 @@ Bienvenido al repositorio técnico del proyecto VIVIR MONDARIZ. Aquí encontrar�
 ## 📅 Gestión del Proyecto
 
 - 📆 [Cronograma](cronograma.md)  
+  Fases de diseño, licencias, construcción y ocupación.
+
 - 💰 [Plan financiero](financeiro.md)  
-- 📊 [Viabilidad técnica y económica](viabilidad.md)
+  Costes estimados, fuentes de financiación y estrategia de sostenibilidad económica.
+
+- 📊 [Viabilidad técnica y económica](viabilidad.md)  
+  Evaluación integral del modelo constructivo, social y territorial.
 
 ---
 
