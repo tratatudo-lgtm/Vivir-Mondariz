@@ -11,7 +11,7 @@ Este documento presenta un análisis comparativo entre los dos principales siste
 | **Madera modular**       | 600–1.200 €        | 2–4 meses      | ♻️ Alta         | Prefabricada, ligera, eficiente |
 | **Hormigón armado**      | 900–1.600 €        | 6–9 meses      | ⚠️ Baja         | Más duradero, pero más contaminante |
 
-Fuentes: MF Casas de Madeira, Woodesign Portugal, Maestro Casas
+
 
 ---
 
