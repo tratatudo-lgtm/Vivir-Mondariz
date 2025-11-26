@@ -1,18 +1,20 @@
 # 🏡 VIVIR MONDARIZ
 
-**Donde el futuro tiene raíces.**  
-Un proyecto de vivienda accesible, sostenible y comunitaria para revitalizar Mondariz y servir de inspiración para toda Galicia.
+**Donde el futuro tiene raíces.**
 
 ---
 
 ## 📚 Documentación Técnica
 
-- 🏗️ [Propuesta Arquitectónica](arquitectura/propuesta-arquitectonica.md)
+- 🏗️ [Proyecto de Arquitectura](proyecto-arquitectura.md)
+- ♿ [Proyecto de Accesibilidad](proyecto-accesibilidad.md)
+- 💰 [Comparativa de Costes: Madera vs Hormigón](costo-madera-vs-hormigon.md)
 - 🌿 [Estrategia de Sostenibilidad](sostenibilidad/estrategia-verde.md)
 - 💼 [Impacto en la Economía Local](economia-local/impacto-economico.md)
 - 📅 [Cronograma del Proyecto](cronograma.md)
 - 🗣️ [Plan de Participación Ciudadana](participacion-ciudadana.md)
 - 📊 [Estudio de Viabilidad Técnica y Financiera](viabilidad.md)
+- 💸 [Plan Financiero](financeiro.md)
 - 🌱 [Expansión Estratégica del Proyecto](expansion-estrategica.md)
 - 🎨 [Plan de Comunicación Visual](comunicacion-visual.md)
 - 🪧 [Cartel de Presentación](cartel-presentacion.md)
@@ -23,7 +25,7 @@ Un proyecto de vivienda accesible, sostenible y comunitaria para revitalizar Mon
 
 - 🏠 [Casa Tipo T1 – 45 m²](arquitectura/t1.md)
 - 🏠 [Casa Tipo T2 – 65 m²](arquitectura/t2.md)
-- 🏠 [Casa Tipo T3 – 90 m²](arquitectura/t3.md) 
+- 🏠 [Casa Tipo T3 – 120 m²](arquitectura/t3.md)
 
 ---
 
@@ -35,9 +37,9 @@ Un proyecto de vivienda accesible, sostenible y comunitaria para revitalizar Mon
 
 ## 🖼️ Galería de Imágenes
 
-- 🏡 Plantas arquitectónicas T1 y T2
-- 🌄 Fachadas exteriores en estilo rural contemporáneo
-- 📐 Renders y visualizaciones (en desarrollo)
+- Plantas arquitectónicas T1, T2, T3
+- Fachadas exteriores en estilo rural contemporáneo y moderno
+- Renders y visualizaciones (en desarrollo)
 
 ---
 
@@ -46,7 +48,3 @@ Un proyecto de vivienda accesible, sostenible y comunitaria para revitalizar Mon
 - 🌐 Web: [vivirmondariz.github.io](https://vivirmondariz.github.io)
 - 📧 Email: vivir@mondariz.gal
 - 📍 Ayuntamiento de Mondariz
-
----
-
-> **“Construyamos juntos el futuro del rural gallego.”**
