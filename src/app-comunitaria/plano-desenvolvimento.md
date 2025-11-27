@@ -1,82 +1,50 @@
-# 🛠️ Plano de Desenvolvimento – App Comunitária VIVIR MONDARIZ
+# 📲 App Comunitaria – Estructura Simplificada
 
-Este plano define as fases de desenvolvimento da aplicação comunitária, com foco em funcionalidades essenciais, testes e expansão progressiva.
-
----
-
-## 🚦 Fase 1 – Mínimo Produto Viável (MVP)
-
-🎯 Objetivo: Lançar uma versão funcional com os módulos essenciais.
-
-### Funcionalidades
-- Autenticação (login, registo, recuperação de senha)
-- Painel principal com navegação
-- Módulo “Mi Vivienda” (incidências + consumos)
-- Módulo “Reservas” (calendário + reservas simples)
-- Tablón de anúncios
-- Estrutura de base de dados e permissões
-
-### Tecnologias
-- React Native + Firebase Auth
-- Firestore (base de dados)
-- Hosting: Vercel ou Netlify
-
-### Duração estimada: 4–6 semanas
+La aplicación VIVIR MONDARIZ facilita la gestión de las viviendas, la comunicación entre vecinos y la participación comunitaria.
 
 ---
 
-## 🔄 Fase 2 – Participação e Comunicação
+## 🧩 Módulos de la App
 
-🎯 Objetivo: Fortalecer a interação entre vizinhos e a gestão comunitária.
+### 🏠 Vivienda
+- Registro de incidencias (humedades, reparaciones, mantenimiento)
+- Historial de intervenciones
+- Gráficos de consumo (agua, luz, calefacción)
 
-### Funcionalidades
-- Votações e propostas comunitárias
-- Fórum de ideias com comentários
-- Mensagens privadas e notificações
-- Gestão de eventos e assembleias
+### 📅 Reservas
+- Calendario para reservar espacios comunes
+- Gestión de turnos y notificaciones
 
-### Duração estimada: 3–4 semanas
+### 🗳️ Comunidad
+- Encuestas y votaciones internas
+- Propuestas de mejora y foro de ideas
 
----
+### 📢 Comunicación
+- Tablón de anuncios digital
+- Mensajes entre vecinos y con la administración
 
-## 🌱 Fase 3 – Sustentabilidade e Indicadores
-
-🎯 Objetivo: Monitorizar e incentivar boas práticas ambientais.
-
-### Funcionalidades
-- Indicadores de consumo energético e hídrico
-- Registo de reciclagem e compostagem
-- Sistema de gamificação (medalhas, rankings)
-- Comparação anónima entre habitações
-
-### Duração estimada: 3 semanas
+### 📈 Sostenibilidad
+- Indicadores de consumo y reciclaje
+- Medallas por buenas prácticas ambientales
 
 ---
 
-## 🧪 Fase 4 – Testes e Lançamento
+## 🔐 Acceso y Seguridad
 
-🎯 Objetivo: Garantir estabilidade, segurança e usabilidade.
-
-### Ações
-- Testes funcionais e de usabilidade com moradores
-- Correção de bugs e melhorias de interface
-- Tradução (PT/ES)
-- Preparação para publicação (Android/iOS)
-
-### Duração estimada: 2 semanas
+- Inicio de sesión con correo y contraseña
+- Perfiles: residente, administrador, técnico
+- Protección de datos conforme al RGPD
 
 ---
 
-## 📦 Fase 5 – Expansão e Integrações Futuras
+## 🛠️ Tecnologías Sugeridas
 
-🎯 Objetivo: Escalar a app e integrar com outros sistemas.
-
-### Possibilidades
-- Integração com sensores (IoT)
-- Pagamentos comunitários (ex: quotas, reservas)
-- Estatísticas para gestão do projeto
-- Exportação de dados para relatórios
+- Frontend: React Native
+- Backend: Node.js + Firebase
+- Base de datos: Firestore o PostgreSQL
+- Autenticación: Firebase Auth
+- Hosting: Vercel o Netlify
 
 ---
 
-> Este plano é flexível e pode ser ajustado conforme o feedback da comunidade e os recursos disponíveis.
+> Una app sencilla, útil y pensada para fortalecer la vida comunitaria.
