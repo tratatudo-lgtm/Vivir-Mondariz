@@ -53,10 +53,14 @@ Bienvenido al repositorio técnico del proyecto **VIVIR MONDARIZ**. Aquí encont
 
 ---
 
-## 📱 Herramienta Digital
+## 📱 Herramienta Digital – App Comunitaria
 
-- 📲 [App Comunitaria – Índice y documentación completa](../src/app-comunitaria/index.md)  
-  Estructura, fases de desarrollo, tareas, wireframes y roadmap de la aplicación vecinal.
+- 📘 [Índice de la App Comunitaria](../src/app-comunitaria/index.md)
+  - 🧩 [Estructura funcional](../src/app-comunitaria/app-comunitaria.md#-módulos-principales)
+  - 🛠️ [Plan de desarrollo](../src/app-comunitaria/app-comunitaria.md#-fases-del-desarrollo)
+  - ✅ [Tareas por fase](../src/app-comunitaria/app-comunitaria.md#-tareas-por-fase)
+  - 🧪 [Wireframes](../src/app-comunitaria/app-comunitaria.md#-wireframes-texto)
+  - 🗺️ [Roadmap](../src/app-comunitaria/roadmap.md)
 
 ---
 
