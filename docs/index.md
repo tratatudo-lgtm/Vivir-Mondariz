@@ -59,7 +59,7 @@ Bienvenido al repositorio técnico del proyecto **VIVIR MONDARIZ**. Aquí encont
   - 🧩 [Estructura funcional](../src/app-comunitaria/app-comunitaria.md#-módulos-principales)
   - 🛠️ [Plan de desarrollo](../src/app-comunitaria/app-comunitaria.md#-fases-del-desarrollo)
   - ✅ [Tareas por fase](../src/app-comunitaria/app-comunitaria.md#-tareas-por-fase)
-  - 🧪 [Wireframes](../src/app-comunitaria/app-comunitaria.md#-wireframes-texto)
+  - 🧪 [Wireframes](../src/app-comunitaria/app-comunitaria.md#-wireframes-descriptivos)
   - 🗺️ [Roadmap](../src/app-comunitaria/roadmap.md)
 
 ---
