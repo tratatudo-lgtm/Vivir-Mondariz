@@ -67,8 +67,8 @@ Bienvenido al repositorio técnico del proyecto **VIVIR MONDARIZ**. Aquí encont
 
 ## 📱 Herramienta Digital
 
-- 📲 [App comunitaria](../src/app-comunitaria/estructura.md)  
-  Plataforma para gestión vecinal, reservas y comunicación interna.
+- 📲 [App comunitaria – Estructura funcional](../src/app-comunitaria/estructura.md)  
+  Plataforma para gestión vecinal, reservas, comunicación interna y sostenibilidad.
 
 ---
 
