@@ -1,6 +1,6 @@
 # 🏡 VIVIR MONDARIZ – Documentación Técnica
 
-Bienvenido al repositorio técnico del proyecto **VIVIR MONDARIZ**. Aquí encontrarás toda la información organizada por áreas clave: arquitectura, accesibilidad, estabilidad, sostenibilidad, gestión y participación.
+Bienvenido al repositorio técnico del proyecto **VIVIR MONDARIZ**. Aquí encontrarás toda la información organizada por áreas clave: arquitectura, accesibilidad, sostenibilidad, gestión y comunidad.
 
 ---
 
@@ -31,29 +31,17 @@ Bienvenido al repositorio técnico del proyecto **VIVIR MONDARIZ**. Aquí encont
 ## 🌿 Espacios Exteriores y Territorio
 
 - 🌳 [Arranjos exteriores](proyecto-arranjos-exteriores.md)  
-  Diseño paisajístico, zonas comunes, huertos y mobiliario exterior.
-
 - ⚡ [Estrategia verde](sostenibilidad/estrategia-verde.md)  
-  Energía renovable, eficiencia hídrica y soluciones pasivas.
-
 - 💼 [Impacto económico local](economia-local/impacto-economico.md)  
-  Dinamización del empleo y proveedores de proximidad.
-
-- 🧭 [Expansión territorial](expansion-estrategica.md)  
-  Replicabilidad y criterios de selección de nuevos núcleos.
+- 🧭 [Expansión territorial](expansion-estrategica.md)
 
 ---
 
 ## 📅 Gestión del Proyecto
 
 - 📆 [Cronograma](cronograma.md)  
-  Fases de diseño, licencias, construcción y ocupación.
-
 - 💰 [Plan financiero](financeiro.md)  
-  Costes estimados, fuentes de financiación y estrategia de sostenibilidad económica.
-
-- 📊 [Viabilidad técnica y económica](viabilidad.md)  
-  Evaluación integral del modelo constructivo, social y territorial.
+- 📊 [Viabilidad técnica y económica](viabilidad.md)
 
 ---
 
@@ -67,8 +55,8 @@ Bienvenido al repositorio técnico del proyecto **VIVIR MONDARIZ**. Aquí encont
 
 ## 📱 Herramienta Digital
 
-- 📲 [App comunitaria – Estructura funcional](../src/app-comunitaria/estructura.md)  
-  Plataforma para gestión vecinal, reservas, comunicación interna y sostenibilidad.
+- 📲 [App Comunitaria – Índice y documentación completa](../src/app-comunitaria/index.md)  
+  Estructura, fases de desarrollo, tareas, wireframes y roadmap de la aplicación vecinal.
 
 ---
 
